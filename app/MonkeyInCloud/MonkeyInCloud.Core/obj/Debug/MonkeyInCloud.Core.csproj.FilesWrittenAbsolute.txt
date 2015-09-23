@@ -1,0 +1,13 @@
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/System.Net.Http.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/Cirrious.CrossCore.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/Cirrious.MvvmCross.Localization.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/Cirrious.MvvmCross.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/MonkeyInCloud.Core.dll.mdb
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/bin/Debug/MonkeyInCloud.Core.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/obj/Debug/MonkeyInCloud.Core.dll
+/Users/williamsrz/source/v8bytes/Talks/XamarinAzureMVVMCrossDemo/app/MonkeyInCloud/MonkeyInCloud.Core/obj/Debug/MonkeyInCloud.Core.dll.mdb
