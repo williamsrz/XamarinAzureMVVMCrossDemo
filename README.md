@@ -1,2 +1,2 @@
-# XamarinAzureMVVMCrossDemo
-Azure Mobile Services with Xamarin and MvvmCross Demo
+# Xamarin with Azure Mobile Services and MvvmCross Demo
+
